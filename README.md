@@ -14,6 +14,11 @@ The necessity of client collaboration is paramount, with openness and accountabi
 
 <img width="400" alt="Screenshot 2023-09-25 at 11 40 24 PM" src="https://github.com/noopur-zambare/Bias-Detection/assets/92505473/3eefb4dc-5658-4de3-8f4d-188ed405111d">
 
+### Differential Privacy
+
+Differential Privacy approaches are critical in Federated Learning for increasing data privacy across decentralised devices or participants. Federated Learning models can be trained collectively while minimising the danger of disclosing sensitive individual data by employing approaches such as Laplace or Gaussian noise addition to model updates, implementing local differential privacy safeguards, and properly managing privacy budgets. These strategies enable organisations and people to leverage the collective intelligence of their data without jeopardising their users' or contributors' privacy rights, thereby building trust and compliance with data privacy regulations.
+
+
 ### Swarm Learning
 
 The identification of bias in swarm learning is of utmost importance in upholding principles of fairness and ethical considerations inside decentralised machine learning systems, wherein autonomous agents work collectively to train models. 
@@ -23,3 +28,8 @@ Swarm learning, a collaborative learning paradigm, can give rise to biases stemm
 The process of identifying bias includes the application of fairness criteria such as disparate impact, demographic parity, and equal opportunity to evaluate and address any inequities in model projections that are based on group characteristics. 
 
 <img width="400" alt="Screenshot 2023-09-25 at 11 38 51 PM" src="https://github.com/noopur-zambare/Bias-Detection/assets/92505473/c27712fb-d801-4f25-bd33-0dc20f7b5afc">
+
+### Decentralized Identity Management
+
+In Swarm Learning with Decentralised Identity Management, strong security measures are essential. This entails utilising blockchain technology for safe identity verification, putting cryptographic methods into use to protect data privacy during model updates, and assuring the reliability of smart contracts regulating the learning process. To prevent unauthorised access and ensure transparency, it's imperative to include access control systems, auditing, and permission management. Multiple parties can jointly train machine learning models without jeopardising their data privacy or the process's integrity by adhering to data privacy laws, monitoring ongoingly, and preventing attacks. 
+
